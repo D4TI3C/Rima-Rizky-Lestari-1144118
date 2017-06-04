@@ -1,5 +1,7 @@
 **BREADTH-FIRST SEARCH (BFS)**
-
+<p align="center">
+  <img src="https://github.com/D4TI3C/Rima-Rizky-Lestari-1144118/blob/master/img/6.jpg" width="400px">
+</p>
 **Latar Belakang**
 
 Dalam pertemuan kemarin pada mata kuliah Kecerdasan Buatan dijelaskan mengenai algoritma pencarian. Algoritma pencarian merupakan algoritma yang menerima beberapa masalah dan menghasilkan suatu solusi terhadap masalah tersebut. Salah satu dari algoritma pencarian tersebut adalah BFS (Breadth-First Search). Pada resume kali ini akan dibahas tentang definisi, kelebihan dan kekurangan, dan cara kerja BFS sendiri.
